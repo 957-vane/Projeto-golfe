@@ -1,0 +1,865 @@
+raw_id;sample_code;sample_date;parcel_name;parameter_name;method;parameter_value;interpretation;parameter_unit;recommendations;loaded_at;source_file
+1;2511789;29/10/2025;Faldo - 1 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+2;2511789;29/10/2025;Faldo - 1 Green;Azoto total ;POS.008 (Método de Dumas);0.13;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+3;2511789;29/10/2025;Faldo - 1 Green;Boro;POS.011 (Extração em Mehlich 3);0.43;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+4;2511789;29/10/2025;Faldo - 1 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+5;2511789;29/10/2025;Faldo - 1 Green;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+6;2511789;29/10/2025;Faldo - 1 Green;Cálcio (%);ISO 23470;64.9;Médio;% Ca;;;raw_soil_fq.csv
+7;2511789;29/10/2025;Faldo - 1 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1600;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+8;2511789;29/10/2025;Faldo - 1 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.32;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+9;2511789;29/10/2025;Faldo - 1 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.12;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+10;2511789;29/10/2025;Faldo - 1 Green;Cobre;POS.011 (Extração em Mehlich 3);0.98;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+11;2511789;29/10/2025;Faldo - 1 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.21;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+12;2511789;29/10/2025;Faldo - 1 Green;Enxofre;POS.011 (Extração em Mehlich 3);60.5;Excesso;mg/kg S;-;;raw_soil_fq.csv
+13;2511789;29/10/2025;Faldo - 1 Green;Ferro;POS.011 (Extração em Mehlich 3);84.7;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+14;2511789;29/10/2025;Faldo - 1 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);54.2;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+15;2511789;29/10/2025;Faldo - 1 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+16;2511789;29/10/2025;Faldo - 1 Green;Magnésio (%);ISO 23470;26.2;Alto;% Mg;;;raw_soil_fq.csv
+17;2511789;29/10/2025;Faldo - 1 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);274;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+18;2511789;29/10/2025;Faldo - 1 Green;Manganês;POS.011 (Extração em Mehlich 3);7.2;Baixo;mg/kg Mn;;;raw_soil_fq.csv
+19;2511789;29/10/2025;Faldo - 1 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+20;2511789;29/10/2025;Faldo - 1 Green;Matéria Orgânica;EN 15936;2.9;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+21;2511789;29/10/2025;Faldo - 1 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+22;2511789;29/10/2025;Faldo - 1 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+23;2511789;29/10/2025;Faldo - 1 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+24;2511789;29/10/2025;Faldo - 1 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+25;2511789;29/10/2025;Faldo - 1 Green;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+26;2511789;29/10/2025;Faldo - 1 Green;Potássio (%);ISO 23470;2.3;Médio;% K;;;raw_soil_fq.csv
+27;2511789;29/10/2025;Faldo - 1 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);50;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+28;2511789;29/10/2025;Faldo - 1 Green;Razão C:N;MI;13.1;Alta - Será esperada uma libertação baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+29;2511789;29/10/2025;Faldo - 1 Green;Razão Ca:K;ISO 23470;28.3;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+30;2511789;29/10/2025;Faldo - 1 Green;Razão Ca:Mg;ISO 23470;2.5;Desfavorável para as propriedades físicas do solo; ;;;raw_soil_fq.csv
+31;2511789;29/10/2025;Faldo - 1 Green;Razão Mg:K;ISO 23470;11.4;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+32;2511789;29/10/2025;Faldo - 1 Green;Sódio;POS.011 (Extração em Mehlich 3);75.2;-;mg/kg Na;;;raw_soil_fq.csv
+33;2511789;29/10/2025;Faldo - 1 Green;Sódio (%);ISO 23470;6.6;-;% Na;;;raw_soil_fq.csv
+34;2511789;29/10/2025;Faldo - 1 Green;Temperatura de medição do pH;MI;23.2;-;°C;;;raw_soil_fq.csv
+35;2511789;29/10/2025;Faldo - 1 Green;Textura do Campo;POS.027 (Feel method);1;Areno-Franca; ;;;raw_soil_fq.csv
+36;2511789;29/10/2025;Faldo - 1 Green;Zinco;POS.011 (Extração em Mehlich 3);5.9;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+37;2511790;29/10/2025;Faldo - 1 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+38;2511790;29/10/2025;Faldo - 1 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.1;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+39;2511790;29/10/2025;Faldo - 1 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.55;Alto;mg/kg B;-;;raw_soil_fq.csv
+40;2511790;29/10/2025;Faldo - 1 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+41;2511790;29/10/2025;Faldo - 1 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+42;2511790;29/10/2025;Faldo - 1 Adjacente;Cálcio (%);ISO 23470;70.2;Médio;% Ca;;;raw_soil_fq.csv
+43;2511790;29/10/2025;Faldo - 1 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1500;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+44;2511790;29/10/2025;Faldo - 1 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4.46;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+45;2511790;29/10/2025;Faldo - 1 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+46;2511790;29/10/2025;Faldo - 1 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.14;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+47;2511790;29/10/2025;Faldo - 1 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.14;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+48;2511790;29/10/2025;Faldo - 1 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);30;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+49;2511790;29/10/2025;Faldo - 1 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);35.8;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+50;2511790;29/10/2025;Faldo - 1 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);93.7;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+51;2511790;29/10/2025;Faldo - 1 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+52;2511790;29/10/2025;Faldo - 1 Adjacente;Magnésio (%);ISO 23470;22.8;Alto;% Mg;;;raw_soil_fq.csv
+53;2511790;29/10/2025;Faldo - 1 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);267;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+54;2511790;29/10/2025;Faldo - 1 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);1.6;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+55;2511790;29/10/2025;Faldo - 1 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+56;2511790;29/10/2025;Faldo - 1 Adjacente;Matéria Orgânica;EN 15936;2.4;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+57;2511790;29/10/2025;Faldo - 1 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+58;2511790;29/10/2025;Faldo - 1 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+59;2511790;29/10/2025;Faldo - 1 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+60;2511790;29/10/2025;Faldo - 1 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+61;2511790;29/10/2025;Faldo - 1 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+62;2511790;29/10/2025;Faldo - 1 Adjacente;Potássio (%);ISO 23470;3.3;Médio;% K;;;raw_soil_fq.csv
+63;2511790;29/10/2025;Faldo - 1 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);79.8;Alto;mg/kg K₂O;0,5 kg/100m² K₂O;;raw_soil_fq.csv
+64;2511790;29/10/2025;Faldo - 1 Adjacente;Razão C:N;MI;14;Alta - Será esperada uma libertação baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+65;2511790;29/10/2025;Faldo - 1 Adjacente;Razão Ca:K;ISO 23470;21.5;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+66;2511790;29/10/2025;Faldo - 1 Adjacente;Razão Ca:Mg;ISO 23470;3.1;Adequada; ;;;raw_soil_fq.csv
+67;2511790;29/10/2025;Faldo - 1 Adjacente;Razão Mg:K;ISO 23470;7;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+68;2511790;29/10/2025;Faldo - 1 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);47.3;-;mg/kg Na;;;raw_soil_fq.csv
+69;2511790;29/10/2025;Faldo - 1 Adjacente;Sódio (%);ISO 23470;3.6;-;% Na;;;raw_soil_fq.csv
+70;2511790;29/10/2025;Faldo - 1 Adjacente;Temperatura de medição do pH;MI;23.2;-;°C;;;raw_soil_fq.csv
+71;2511790;29/10/2025;Faldo - 1 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+72;2511790;29/10/2025;Faldo - 1 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.61;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+73;2511791;29/10/2025;Faldo - 2 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+74;2511791;29/10/2025;Faldo - 2 Green;Azoto total ;POS.008 (Método de Dumas);0.11;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+75;2511791;29/10/2025;Faldo - 2 Green;Boro;POS.011 (Extração em Mehlich 3);0.24;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+76;2511791;29/10/2025;Faldo - 2 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+77;2511791;29/10/2025;Faldo - 2 Green;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+78;2511791;29/10/2025;Faldo - 2 Green;Cálcio (%);ISO 23470;69.5;Médio;% Ca;;;raw_soil_fq.csv
+79;2511791;29/10/2025;Faldo - 2 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);751;Médio;mg/kg CaO;;;raw_soil_fq.csv
+80;2511791;29/10/2025;Faldo - 2 Green;Capacidade de troca catiónica efetiva ;ISO 23470;3.12;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+81;2511791;29/10/2025;Faldo - 2 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+82;2511791;29/10/2025;Faldo - 2 Green;Cobre;POS.011 (Extração em Mehlich 3);0.68;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+83;2511791;29/10/2025;Faldo - 2 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.12;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+84;2511791;29/10/2025;Faldo - 2 Green;Enxofre;POS.011 (Extração em Mehlich 3);46.3;Excesso;mg/kg S;-;;raw_soil_fq.csv
+85;2511791;29/10/2025;Faldo - 2 Green;Ferro;POS.011 (Extração em Mehlich 3);87.2;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+86;2511791;29/10/2025;Faldo - 2 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);63.6;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+87;2511791;29/10/2025;Faldo - 2 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+88;2511791;29/10/2025;Faldo - 2 Green;Magnésio (%);ISO 23470;24.9;Alto;% Mg;;;raw_soil_fq.csv
+89;2511791;29/10/2025;Faldo - 2 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);183;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+90;2511791;29/10/2025;Faldo - 2 Green;Manganês;POS.011 (Extração em Mehlich 3);5.2;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+91;2511791;29/10/2025;Faldo - 2 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+92;2511791;29/10/2025;Faldo - 2 Green;Matéria Orgânica;EN 15936;2.2;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+93;2511791;29/10/2025;Faldo - 2 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+94;2511791;29/10/2025;Faldo - 2 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+95;2511791;29/10/2025;Faldo - 2 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+96;2511791;29/10/2025;Faldo - 2 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+97;2511791;29/10/2025;Faldo - 2 Green;pH(H₂O);ISO 10390;8.2;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+98;2511791;29/10/2025;Faldo - 2 Green;Potássio (%);ISO 23470;1.6;Médio;% K;;;raw_soil_fq.csv
+99;2511791;29/10/2025;Faldo - 2 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);27.3;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+100;2511791;29/10/2025;Faldo - 2 Green;Razão C:N;MI;11.8;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+101;2511791;29/10/2025;Faldo - 2 Green;Razão Ca:K;ISO 23470;43;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+102;2511791;29/10/2025;Faldo - 2 Green;Razão Ca:Mg;ISO 23470;2.8;Adequada; ;;;raw_soil_fq.csv
+103;2511791;29/10/2025;Faldo - 2 Green;Razão Mg:K;ISO 23470;15.4;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+104;2511791;29/10/2025;Faldo - 2 Green;Sódio;POS.011 (Extração em Mehlich 3);31.7;-;mg/kg Na;;;raw_soil_fq.csv
+105;2511791;29/10/2025;Faldo - 2 Green;Sódio (%);ISO 23470;3.8;-;% Na;;;raw_soil_fq.csv
+106;2511791;29/10/2025;Faldo - 2 Green;Temperatura de medição do pH;MI;23.2;-;°C;;;raw_soil_fq.csv
+107;2511791;29/10/2025;Faldo - 2 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+108;2511791;29/10/2025;Faldo - 2 Green;Zinco;POS.011 (Extração em Mehlich 3);5.1;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+109;2511792;29/10/2025;Faldo - 2 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+110;2511792;29/10/2025;Faldo - 2 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.06;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+111;2511792;29/10/2025;Faldo - 2 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.35;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+112;2511792;29/10/2025;Faldo - 2 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+113;2511792;29/10/2025;Faldo - 2 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+114;2511792;29/10/2025;Faldo - 2 Adjacente;Cálcio (%);ISO 23470;69.5;Médio;% Ca;;;raw_soil_fq.csv
+115;2511792;29/10/2025;Faldo - 2 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);902;Alto;mg/kg CaO;;;raw_soil_fq.csv
+116;2511792;29/10/2025;Faldo - 2 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;3.23;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+117;2511792;29/10/2025;Faldo - 2 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.47;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+118;2511792;29/10/2025;Faldo - 2 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+119;2511792;29/10/2025;Faldo - 2 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.11;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+120;2511792;29/10/2025;Faldo - 2 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);24.3;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+121;2511792;29/10/2025;Faldo - 2 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);20.8;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+122;2511792;29/10/2025;Faldo - 2 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);103;Alto;mg/kg P₂O₅;0,5 kg/100m² P₂O₅;;raw_soil_fq.csv
+123;2511792;29/10/2025;Faldo - 2 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+124;2511792;29/10/2025;Faldo - 2 Adjacente;Magnésio (%);ISO 23470;24.3;Alto;% Mg;;;raw_soil_fq.csv
+125;2511792;29/10/2025;Faldo - 2 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);199;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+126;2511792;29/10/2025;Faldo - 2 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+127;2511792;29/10/2025;Faldo - 2 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+128;2511792;29/10/2025;Faldo - 2 Adjacente;Matéria Orgânica;EN 15936;1.7;Média;%;Aplicar 25 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+129;2511792;29/10/2025;Faldo - 2 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+130;2511792;29/10/2025;Faldo - 2 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+131;2511792;29/10/2025;Faldo - 2 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+132;2511792;29/10/2025;Faldo - 2 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+133;2511792;29/10/2025;Faldo - 2 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+134;2511792;29/10/2025;Faldo - 2 Adjacente;Potássio (%);ISO 23470;1.6;Médio;% K;;;raw_soil_fq.csv
+135;2511792;29/10/2025;Faldo - 2 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);24.6;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+136;2511792;29/10/2025;Faldo - 2 Adjacente;Razão C:N;MI;16.7;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+137;2511792;29/10/2025;Faldo - 2 Adjacente;Razão Ca:K;ISO 23470;43.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+138;2511792;29/10/2025;Faldo - 2 Adjacente;Razão Ca:Mg;ISO 23470;2.9;Adequada; ;;;raw_soil_fq.csv
+139;2511792;29/10/2025;Faldo - 2 Adjacente;Razão Mg:K;ISO 23470;15.1;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+140;2511792;29/10/2025;Faldo - 2 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);41.6;-;mg/kg Na;;;raw_soil_fq.csv
+141;2511792;29/10/2025;Faldo - 2 Adjacente;Sódio (%);ISO 23470;4.5;-;% Na;;;raw_soil_fq.csv
+142;2511792;29/10/2025;Faldo - 2 Adjacente;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+143;2511792;29/10/2025;Faldo - 2 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+144;2511792;29/10/2025;Faldo - 2 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.25;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+145;2511793;29/10/2025;Faldo - 3 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+146;2511793;29/10/2025;Faldo - 3 Green;Azoto total ;POS.008 (Método de Dumas);0.09;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+147;2511793;29/10/2025;Faldo - 3 Green;Boro;POS.011 (Extração em Mehlich 3);0.3;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+148;2511793;29/10/2025;Faldo - 3 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+149;2511793;29/10/2025;Faldo - 3 Green;Calcário total;EN 15936;0;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+150;2511793;29/10/2025;Faldo - 3 Green;Cálcio (%);ISO 23470;72.5;Médio;% Ca;;;raw_soil_fq.csv
+151;2511793;29/10/2025;Faldo - 3 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);919;Alto;mg/kg CaO;;;raw_soil_fq.csv
+152;2511793;29/10/2025;Faldo - 3 Green;Capacidade de troca catiónica efetiva ;ISO 23470;3.37;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+153;2511793;29/10/2025;Faldo - 3 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.08;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+154;2511793;29/10/2025;Faldo - 3 Green;Cobre;POS.011 (Extração em Mehlich 3);0.78;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+155;2511793;29/10/2025;Faldo - 3 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.11;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+156;2511793;29/10/2025;Faldo - 3 Green;Enxofre;POS.011 (Extração em Mehlich 3);38.6;Excesso;mg/kg S;-;;raw_soil_fq.csv
+157;2511793;29/10/2025;Faldo - 3 Green;Ferro;POS.011 (Extração em Mehlich 3);79.8;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+158;2511793;29/10/2025;Faldo - 3 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);59.5;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+159;2511793;29/10/2025;Faldo - 3 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+160;2511793;29/10/2025;Faldo - 3 Green;Magnésio (%);ISO 23470;23;Alto;% Mg;;;raw_soil_fq.csv
+161;2511793;29/10/2025;Faldo - 3 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);193;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+162;2511793;29/10/2025;Faldo - 3 Green;Manganês;POS.011 (Extração em Mehlich 3);4.1;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+163;2511793;29/10/2025;Faldo - 3 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+164;2511793;29/10/2025;Faldo - 3 Green;Matéria Orgânica;EN 15936;2.4;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+165;2511793;29/10/2025;Faldo - 3 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+166;2511793;29/10/2025;Faldo - 3 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+167;2511793;29/10/2025;Faldo - 3 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+168;2511793;29/10/2025;Faldo - 3 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+169;2511793;29/10/2025;Faldo - 3 Green;pH(H₂O);ISO 10390;8.6;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+170;2511793;29/10/2025;Faldo - 3 Green;Potássio (%);ISO 23470;1.5;Médio;% K;;;raw_soil_fq.csv
+171;2511793;29/10/2025;Faldo - 3 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);26.9;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+172;2511793;29/10/2025;Faldo - 3 Green;Razão C:N;MI;15.6;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+173;2511793;29/10/2025;Faldo - 3 Green;Razão Ca:K;ISO 23470;49.3;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+174;2511793;29/10/2025;Faldo - 3 Green;Razão Ca:Mg;ISO 23470;3.2;Adequada; ;;;raw_soil_fq.csv
+175;2511793;29/10/2025;Faldo - 3 Green;Razão Mg:K;ISO 23470;15.6;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+176;2511793;29/10/2025;Faldo - 3 Green;Sódio;POS.011 (Extração em Mehlich 3);28.9;-;mg/kg Na;;;raw_soil_fq.csv
+177;2511793;29/10/2025;Faldo - 3 Green;Sódio (%);ISO 23470;3;-;% Na;;;raw_soil_fq.csv
+178;2511793;29/10/2025;Faldo - 3 Green;Temperatura de medição do pH;MI;23.2;-;°C;;;raw_soil_fq.csv
+179;2511793;29/10/2025;Faldo - 3 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+180;2511793;29/10/2025;Faldo - 3 Green;Zinco;POS.011 (Extração em Mehlich 3);5.7;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+181;2511794;29/10/2025;Faldo - 3 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+182;2511794;29/10/2025;Faldo - 3 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.48;Excesso;% N;0 kg/100m² N;;raw_soil_fq.csv
+183;2511794;29/10/2025;Faldo - 3 Adjacente;Boro;POS.011 (Extração em Mehlich 3);1;Alto;mg/kg B;;;raw_soil_fq.csv
+184;2511794;29/10/2025;Faldo - 3 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+185;2511794;29/10/2025;Faldo - 3 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+186;2511794;29/10/2025;Faldo - 3 Adjacente;Cálcio (%);ISO 23470;67.9;Médio;% Ca;;;raw_soil_fq.csv
+187;2511794;29/10/2025;Faldo - 3 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1800;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+188;2511794;29/10/2025;Faldo - 3 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;6.79;Baixo;cmol⁺/kg;;;raw_soil_fq.csv
+189;2511794;29/10/2025;Faldo - 3 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+190;2511794;29/10/2025;Faldo - 3 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.3;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+191;2511794;29/10/2025;Faldo - 3 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.18;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+192;2511794;29/10/2025;Faldo - 3 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);56.5;Excesso;mg/kg S;-;;raw_soil_fq.csv
+193;2511794;29/10/2025;Faldo - 3 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);30.7;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+194;2511794;29/10/2025;Faldo - 3 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);184;Excesso;mg/kg P₂O₅;0,5 kg/100m² P₂O₅;;raw_soil_fq.csv
+195;2511794;29/10/2025;Faldo - 3 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+196;2511794;29/10/2025;Faldo - 3 Adjacente;Magnésio (%);ISO 23470;26.3;Alto;% Mg;;;raw_soil_fq.csv
+197;2511794;29/10/2025;Faldo - 3 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);471;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+198;2511794;29/10/2025;Faldo - 3 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);8.1;Baixo;mg/kg Mn;;;raw_soil_fq.csv
+199;2511794;29/10/2025;Faldo - 3 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);1.4;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+200;2511794;29/10/2025;Faldo - 3 Adjacente;Matéria Orgânica;EN 15936;9.8;Muito alta;%;Aplicar 0-10 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+201;2511794;29/10/2025;Faldo - 3 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+202;2511794;29/10/2025;Faldo - 3 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+203;2511794;29/10/2025;Faldo - 3 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+204;2511794;29/10/2025;Faldo - 3 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+205;2511794;29/10/2025;Faldo - 3 Adjacente;pH(H₂O);ISO 10390;8.6;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+206;2511794;29/10/2025;Faldo - 3 Adjacente;Potássio (%);ISO 23470;1.9;Médio;% K;;;raw_soil_fq.csv
+207;2511794;29/10/2025;Faldo - 3 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);75.6;Alto;mg/kg K₂O;0,5 kg/100m² K₂O;;raw_soil_fq.csv
+208;2511794;29/10/2025;Faldo - 3 Adjacente;Razão C:N;MI;11.9;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+209;2511794;29/10/2025;Faldo - 3 Adjacente;Razão Ca:K;ISO 23470;34.8;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+210;2511794;29/10/2025;Faldo - 3 Adjacente;Razão Ca:Mg;ISO 23470;2.6;Adequada; ;;;raw_soil_fq.csv
+211;2511794;29/10/2025;Faldo - 3 Adjacente;Razão Mg:K;ISO 23470;13.5;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+212;2511794;29/10/2025;Faldo - 3 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);71.7;-;mg/kg Na;;;raw_soil_fq.csv
+213;2511794;29/10/2025;Faldo - 3 Adjacente;Sódio (%);ISO 23470;3.8;-;% Na;;;raw_soil_fq.csv
+214;2511794;29/10/2025;Faldo - 3 Adjacente;Temperatura de medição do pH;MI;23.2;-;°C;;;raw_soil_fq.csv
+215;2511794;29/10/2025;Faldo - 3 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+216;2511794;29/10/2025;Faldo - 3 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);2.1;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+217;2511795;29/10/2025;Faldo - 4 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+218;2511795;29/10/2025;Faldo - 4 Green;Azoto total ;POS.008 (Método de Dumas);0.13;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+219;2511795;29/10/2025;Faldo - 4 Green;Boro;POS.011 (Extração em Mehlich 3);0.33;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+220;2511795;29/10/2025;Faldo - 4 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+221;2511795;29/10/2025;Faldo - 4 Green;Calcário total;EN 15936;0.5;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+222;2511795;29/10/2025;Faldo - 4 Green;Cálcio (%);ISO 23470;74.5;Médio;% Ca;;;raw_soil_fq.csv
+223;2511795;29/10/2025;Faldo - 4 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1200;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+224;2511795;29/10/2025;Faldo - 4 Green;Capacidade de troca catiónica efetiva ;ISO 23470;3.43;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+225;2511795;29/10/2025;Faldo - 4 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.08;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+226;2511795;29/10/2025;Faldo - 4 Green;Cobre;POS.011 (Extração em Mehlich 3);0.95;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+227;2511795;29/10/2025;Faldo - 4 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.12;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+228;2511795;29/10/2025;Faldo - 4 Green;Enxofre;POS.011 (Extração em Mehlich 3);46.1;Excesso;mg/kg S;-;;raw_soil_fq.csv
+229;2511795;29/10/2025;Faldo - 4 Green;Ferro;POS.011 (Extração em Mehlich 3);77.7;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+230;2511795;29/10/2025;Faldo - 4 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);58;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+231;2511795;29/10/2025;Faldo - 4 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+232;2511795;29/10/2025;Faldo - 4 Green;Magnésio (%);ISO 23470;21.1;Alto;% Mg;;;raw_soil_fq.csv
+233;2511795;29/10/2025;Faldo - 4 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);187;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+234;2511795;29/10/2025;Faldo - 4 Green;Manganês;POS.011 (Extração em Mehlich 3);7.1;Baixo;mg/kg Mn;;;raw_soil_fq.csv
+235;2511795;29/10/2025;Faldo - 4 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+236;2511795;29/10/2025;Faldo - 4 Green;Matéria Orgânica;EN 15936;0.98;Baixa;%;Aplicar 25 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+237;2511795;29/10/2025;Faldo - 4 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+238;2511795;29/10/2025;Faldo - 4 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+239;2511795;29/10/2025;Faldo - 4 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+240;2511795;29/10/2025;Faldo - 4 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+241;2511795;29/10/2025;Faldo - 4 Green;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+242;2511795;29/10/2025;Faldo - 4 Green;Potássio (%);ISO 23470;1.4;Médio;% K;;;raw_soil_fq.csv
+243;2511795;29/10/2025;Faldo - 4 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);25.7;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+244;2511795;29/10/2025;Faldo - 4 Green;Razão C:N;MI;4.4;Baixa - Será esperada uma libertação forte de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+245;2511795;29/10/2025;Faldo - 4 Green;Razão Ca:K;ISO 23470;52.6;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+246;2511795;29/10/2025;Faldo - 4 Green;Razão Ca:Mg;ISO 23470;3.5;Adequada; ;;;raw_soil_fq.csv
+247;2511795;29/10/2025;Faldo - 4 Green;Razão Mg:K;ISO 23470;14.9;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+248;2511795;29/10/2025;Faldo - 4 Green;Sódio;POS.011 (Extração em Mehlich 3);28;-;mg/kg Na;;;raw_soil_fq.csv
+249;2511795;29/10/2025;Faldo - 4 Green;Sódio (%);ISO 23470;3;-;% Na;;;raw_soil_fq.csv
+250;2511795;29/10/2025;Faldo - 4 Green;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+251;2511795;29/10/2025;Faldo - 4 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+252;2511795;29/10/2025;Faldo - 4 Green;Zinco;POS.011 (Extração em Mehlich 3);6.4;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+253;2511796;29/10/2025;Faldo - 4 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+254;2511796;29/10/2025;Faldo - 4 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.07;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+255;2511796;29/10/2025;Faldo - 4 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.64;Alto;mg/kg B;-;;raw_soil_fq.csv
+256;2511796;29/10/2025;Faldo - 4 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+257;2511796;29/10/2025;Faldo - 4 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+258;2511796;29/10/2025;Faldo - 4 Adjacente;Cálcio (%);ISO 23470;72.6;Médio;% Ca;;;raw_soil_fq.csv
+259;2511796;29/10/2025;Faldo - 4 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1300;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+260;2511796;29/10/2025;Faldo - 4 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4.43;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+261;2511796;29/10/2025;Faldo - 4 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.15;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+262;2511796;29/10/2025;Faldo - 4 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.12;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+263;2511796;29/10/2025;Faldo - 4 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.12;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+264;2511796;29/10/2025;Faldo - 4 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);25.2;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+265;2511796;29/10/2025;Faldo - 4 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);35.4;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+266;2511796;29/10/2025;Faldo - 4 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);93.7;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+267;2511796;29/10/2025;Faldo - 4 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+268;2511796;29/10/2025;Faldo - 4 Adjacente;Magnésio (%);ISO 23470;22.8;Alto;% Mg;;;raw_soil_fq.csv
+269;2511796;29/10/2025;Faldo - 4 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);277;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+270;2511796;29/10/2025;Faldo - 4 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0.56;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+271;2511796;29/10/2025;Faldo - 4 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+272;2511796;29/10/2025;Faldo - 4 Adjacente;Matéria Orgânica;EN 15936;2.4;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+273;2511796;29/10/2025;Faldo - 4 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+274;2511796;29/10/2025;Faldo - 4 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+275;2511796;29/10/2025;Faldo - 4 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+276;2511796;29/10/2025;Faldo - 4 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+277;2511796;29/10/2025;Faldo - 4 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+278;2511796;29/10/2025;Faldo - 4 Adjacente;Potássio (%);ISO 23470;2;Médio;% K;;;raw_soil_fq.csv
+279;2511796;29/10/2025;Faldo - 4 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);50.2;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+280;2511796;29/10/2025;Faldo - 4 Adjacente;Razão C:N;MI;20;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+281;2511796;29/10/2025;Faldo - 4 Adjacente;Razão Ca:K;ISO 23470;37.2;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+282;2511796;29/10/2025;Faldo - 4 Adjacente;Razão Ca:Mg;ISO 23470;3.2;Adequada; ;;;raw_soil_fq.csv
+283;2511796;29/10/2025;Faldo - 4 Adjacente;Razão Mg:K;ISO 23470;11.7;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+284;2511796;29/10/2025;Faldo - 4 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);34.8;-;mg/kg Na;;;raw_soil_fq.csv
+285;2511796;29/10/2025;Faldo - 4 Adjacente;Sódio (%);ISO 23470;2.6;-;% Na;;;raw_soil_fq.csv
+286;2511796;29/10/2025;Faldo - 4 Adjacente;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+287;2511796;29/10/2025;Faldo - 4 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+288;2511796;29/10/2025;Faldo - 4 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.6;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+289;2511797;29/10/2025;Faldo - 5 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+290;2511797;29/10/2025;Faldo - 5 Green;Azoto total ;POS.008 (Método de Dumas);0.06;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+291;2511797;29/10/2025;Faldo - 5 Green;Boro;POS.011 (Extração em Mehlich 3);0.49;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+292;2511797;29/10/2025;Faldo - 5 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+293;2511797;29/10/2025;Faldo - 5 Green;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+294;2511797;29/10/2025;Faldo - 5 Green;Cálcio (%);ISO 23470;67.9;Médio;% Ca;;;raw_soil_fq.csv
+295;2511797;29/10/2025;Faldo - 5 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1500;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+296;2511797;29/10/2025;Faldo - 5 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.13;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+297;2511797;29/10/2025;Faldo - 5 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.14;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+298;2511797;29/10/2025;Faldo - 5 Green;Cobre;POS.011 (Extração em Mehlich 3);0.99;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+299;2511797;29/10/2025;Faldo - 5 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.15;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+300;2511797;29/10/2025;Faldo - 5 Green;Enxofre;POS.011 (Extração em Mehlich 3);32.9;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+301;2511797;29/10/2025;Faldo - 5 Green;Ferro;POS.011 (Extração em Mehlich 3);79;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+302;2511797;29/10/2025;Faldo - 5 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);49.7;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+303;2511797;29/10/2025;Faldo - 5 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+304;2511797;29/10/2025;Faldo - 5 Green;Magnésio (%);ISO 23470;25.3;Alto;% Mg;;;raw_soil_fq.csv
+305;2511797;29/10/2025;Faldo - 5 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);284;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+306;2511797;29/10/2025;Faldo - 5 Green;Manganês;POS.011 (Extração em Mehlich 3);9.7;Baixo;mg/kg Mn;;;raw_soil_fq.csv
+307;2511797;29/10/2025;Faldo - 5 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);1.3;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+308;2511797;29/10/2025;Faldo - 5 Green;Matéria Orgânica;EN 15936;2.2;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+309;2511797;29/10/2025;Faldo - 5 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+310;2511797;29/10/2025;Faldo - 5 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+311;2511797;29/10/2025;Faldo - 5 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+312;2511797;29/10/2025;Faldo - 5 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+313;2511797;29/10/2025;Faldo - 5 Green;pH(H₂O);ISO 10390;9;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+314;2511797;29/10/2025;Faldo - 5 Green;Potássio (%);ISO 23470;2.3;Médio;% K;;;raw_soil_fq.csv
+315;2511797;29/10/2025;Faldo - 5 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);55.8;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+316;2511797;29/10/2025;Faldo - 5 Green;Razão C:N;MI;21.7;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+317;2511797;29/10/2025;Faldo - 5 Green;Razão Ca:K;ISO 23470;30;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+318;2511797;29/10/2025;Faldo - 5 Green;Razão Ca:Mg;ISO 23470;2.7;Adequada; ;;;raw_soil_fq.csv
+319;2511797;29/10/2025;Faldo - 5 Green;Razão Mg:K;ISO 23470;11.1;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+320;2511797;29/10/2025;Faldo - 5 Green;Sódio;POS.011 (Extração em Mehlich 3);51.9;-;mg/kg Na;;;raw_soil_fq.csv
+321;2511797;29/10/2025;Faldo - 5 Green;Sódio (%);ISO 23470;4.5;-;% Na;;;raw_soil_fq.csv
+322;2511797;29/10/2025;Faldo - 5 Green;Temperatura de medição do pH;MI;22.9;-;°C;;;raw_soil_fq.csv
+323;2511797;29/10/2025;Faldo - 5 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+324;2511797;29/10/2025;Faldo - 5 Green;Zinco;POS.011 (Extração em Mehlich 3);8.3;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+325;2511798;29/10/2025;Faldo - 5 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+326;2511798;29/10/2025;Faldo - 5 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.06;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+327;2511798;29/10/2025;Faldo - 5 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.42;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+328;2511798;29/10/2025;Faldo - 5 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+329;2511798;29/10/2025;Faldo - 5 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+330;2511798;29/10/2025;Faldo - 5 Adjacente;Cálcio (%);ISO 23470;69.6;Médio;% Ca;;;raw_soil_fq.csv
+331;2511798;29/10/2025;Faldo - 5 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);967;Alto;mg/kg CaO;;;raw_soil_fq.csv
+332;2511798;29/10/2025;Faldo - 5 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;3.96;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+333;2511798;29/10/2025;Faldo - 5 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+334;2511798;29/10/2025;Faldo - 5 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.07;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+335;2511798;29/10/2025;Faldo - 5 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.11;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+336;2511798;29/10/2025;Faldo - 5 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);19.1;Médio;mg/kg S;15 kg/ha S;;raw_soil_fq.csv
+337;2511798;29/10/2025;Faldo - 5 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);40.6;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+338;2511798;29/10/2025;Faldo - 5 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);102;Alto;mg/kg P₂O₅;0,5 kg/100m² P₂O₅;;raw_soil_fq.csv
+339;2511798;29/10/2025;Faldo - 5 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+340;2511798;29/10/2025;Faldo - 5 Adjacente;Magnésio (%);ISO 23470;24.1;Alto;% Mg;;;raw_soil_fq.csv
+341;2511798;29/10/2025;Faldo - 5 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);223;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+342;2511798;29/10/2025;Faldo - 5 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0.56;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+343;2511798;29/10/2025;Faldo - 5 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+344;2511798;29/10/2025;Faldo - 5 Adjacente;Matéria Orgânica;EN 15936;2.2;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+345;2511798;29/10/2025;Faldo - 5 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+346;2511798;29/10/2025;Faldo - 5 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+347;2511798;29/10/2025;Faldo - 5 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+348;2511798;29/10/2025;Faldo - 5 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+349;2511798;29/10/2025;Faldo - 5 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+350;2511798;29/10/2025;Faldo - 5 Adjacente;Potássio (%);ISO 23470;3.3;Médio;% K;;;raw_soil_fq.csv
+351;2511798;29/10/2025;Faldo - 5 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);69.1;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+352;2511798;29/10/2025;Faldo - 5 Adjacente;Razão C:N;MI;21.7;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+353;2511798;29/10/2025;Faldo - 5 Adjacente;Razão Ca:K;ISO 23470;21;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+354;2511798;29/10/2025;Faldo - 5 Adjacente;Razão Ca:Mg;ISO 23470;2.9;Adequada; ;;;raw_soil_fq.csv
+355;2511798;29/10/2025;Faldo - 5 Adjacente;Razão Mg:K;ISO 23470;7.3;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+356;2511798;29/10/2025;Faldo - 5 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);29.2;-;mg/kg Na;;;raw_soil_fq.csv
+357;2511798;29/10/2025;Faldo - 5 Adjacente;Sódio (%);ISO 23470;2.9;-;% Na;;;raw_soil_fq.csv
+358;2511798;29/10/2025;Faldo - 5 Adjacente;Temperatura de medição do pH;MI;22.9;-;°C;;;raw_soil_fq.csv
+359;2511798;29/10/2025;Faldo - 5 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+360;2511798;29/10/2025;Faldo - 5 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.5;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+361;2511799;29/10/2025;Faldo - 6 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+362;2511799;29/10/2025;Faldo - 6 Green;Azoto total ;POS.008 (Método de Dumas);0.17;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+363;2511799;29/10/2025;Faldo - 6 Green;Boro;POS.011 (Extração em Mehlich 3);0.35;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+364;2511799;29/10/2025;Faldo - 6 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+365;2511799;29/10/2025;Faldo - 6 Green;Calcário total;EN 15936;0.25;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+366;2511799;29/10/2025;Faldo - 6 Green;Cálcio (%);ISO 23470;69.6;Médio;% Ca;;;raw_soil_fq.csv
+367;2511799;29/10/2025;Faldo - 6 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1300;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+368;2511799;29/10/2025;Faldo - 6 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.36;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+369;2511799;29/10/2025;Faldo - 6 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.05;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+370;2511799;29/10/2025;Faldo - 6 Green;Cobre;POS.011 (Extração em Mehlich 3);0.84;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+371;2511799;29/10/2025;Faldo - 6 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.18;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+372;2511799;29/10/2025;Faldo - 6 Green;Enxofre;POS.011 (Extração em Mehlich 3);51.6;Excesso;mg/kg S;-;;raw_soil_fq.csv
+373;2511799;29/10/2025;Faldo - 6 Green;Ferro;POS.011 (Extração em Mehlich 3);83.8;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+374;2511799;29/10/2025;Faldo - 6 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);59.5;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+375;2511799;29/10/2025;Faldo - 6 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+376;2511799;29/10/2025;Faldo - 6 Green;Magnésio (%);ISO 23470;23.6;Alto;% Mg;;;raw_soil_fq.csv
+377;2511799;29/10/2025;Faldo - 6 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);238;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+378;2511799;29/10/2025;Faldo - 6 Green;Manganês;POS.011 (Extração em Mehlich 3);8.2;Baixo;mg/kg Mn;;;raw_soil_fq.csv
+379;2511799;29/10/2025;Faldo - 6 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0.2;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+380;2511799;29/10/2025;Faldo - 6 Green;Matéria Orgânica;EN 15936;1.7;Média;%;Aplicar 25 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+381;2511799;29/10/2025;Faldo - 6 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+382;2511799;29/10/2025;Faldo - 6 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+383;2511799;29/10/2025;Faldo - 6 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+384;2511799;29/10/2025;Faldo - 6 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+385;2511799;29/10/2025;Faldo - 6 Green;pH(H₂O);ISO 10390;8.7;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+386;2511799;29/10/2025;Faldo - 6 Green;Potássio (%);ISO 23470;2;Médio;% K;;;raw_soil_fq.csv
+387;2511799;29/10/2025;Faldo - 6 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);42.7;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+388;2511799;29/10/2025;Faldo - 6 Green;Razão C:N;MI;5.7;Baixa - Será esperada uma libertação forte de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+389;2511799;29/10/2025;Faldo - 6 Green;Razão Ca:K;ISO 23470;35.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+390;2511799;29/10/2025;Faldo - 6 Green;Razão Ca:Mg;ISO 23470;2.9;Adequada; ;;;raw_soil_fq.csv
+391;2511799;29/10/2025;Faldo - 6 Green;Razão Mg:K;ISO 23470;11.9;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+392;2511799;29/10/2025;Faldo - 6 Green;Sódio;POS.011 (Extração em Mehlich 3);50.7;-;mg/kg Na;;;raw_soil_fq.csv
+393;2511799;29/10/2025;Faldo - 6 Green;Sódio (%);ISO 23470;4.8;-;% Na;;;raw_soil_fq.csv
+394;2511799;29/10/2025;Faldo - 6 Green;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+395;2511799;29/10/2025;Faldo - 6 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+396;2511799;29/10/2025;Faldo - 6 Green;Zinco;POS.011 (Extração em Mehlich 3);6.2;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+397;2511800;29/10/2025;Faldo - 6 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+398;2511800;29/10/2025;Faldo - 6 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.17;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+399;2511800;29/10/2025;Faldo - 6 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.54;Alto;mg/kg B;-;;raw_soil_fq.csv
+400;2511800;29/10/2025;Faldo - 6 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+401;2511800;29/10/2025;Faldo - 6 Adjacente;Calcário total;EN 15936;0;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+402;2511800;29/10/2025;Faldo - 6 Adjacente;Cálcio (%);ISO 23470;67.4;Médio;% Ca;;;raw_soil_fq.csv
+403;2511800;29/10/2025;Faldo - 6 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1300;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+404;2511800;29/10/2025;Faldo - 6 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4.52;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+405;2511800;29/10/2025;Faldo - 6 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.16;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+406;2511800;29/10/2025;Faldo - 6 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.31;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+407;2511800;29/10/2025;Faldo - 6 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.15;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+408;2511800;29/10/2025;Faldo - 6 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);47.3;Excesso;mg/kg S;-;;raw_soil_fq.csv
+409;2511800;29/10/2025;Faldo - 6 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);47.3;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+410;2511800;29/10/2025;Faldo - 6 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);72.8;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+411;2511800;29/10/2025;Faldo - 6 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+412;2511800;29/10/2025;Faldo - 6 Adjacente;Magnésio (%);ISO 23470;25.5;Alto;% Mg;;;raw_soil_fq.csv
+413;2511800;29/10/2025;Faldo - 6 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);326;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+414;2511800;29/10/2025;Faldo - 6 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+415;2511800;29/10/2025;Faldo - 6 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+416;2511800;29/10/2025;Faldo - 6 Adjacente;Matéria Orgânica;EN 15936;4.3;Alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+417;2511800;29/10/2025;Faldo - 6 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+418;2511800;29/10/2025;Faldo - 6 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+419;2511800;29/10/2025;Faldo - 6 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+420;2511800;29/10/2025;Faldo - 6 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+421;2511800;29/10/2025;Faldo - 6 Adjacente;pH(H₂O);ISO 10390;8.3;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+422;2511800;29/10/2025;Faldo - 6 Adjacente;Potássio (%);ISO 23470;2.1;Médio;% K;;;raw_soil_fq.csv
+423;2511800;29/10/2025;Faldo - 6 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);54.4;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+424;2511800;29/10/2025;Faldo - 6 Adjacente;Razão C:N;MI;14.7;Alta - Será esperada uma libertação baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+425;2511800;29/10/2025;Faldo - 6 Adjacente;Razão Ca:K;ISO 23470;32.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+426;2511800;29/10/2025;Faldo - 6 Adjacente;Razão Ca:Mg;ISO 23470;2.6;Adequada; ;;;raw_soil_fq.csv
+427;2511800;29/10/2025;Faldo - 6 Adjacente;Razão Mg:K;ISO 23470;12.1;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+428;2511800;29/10/2025;Faldo - 6 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);66.3;-;mg/kg Na;;;raw_soil_fq.csv
+429;2511800;29/10/2025;Faldo - 6 Adjacente;Sódio (%);ISO 23470;5;-;% Na;;;raw_soil_fq.csv
+430;2511800;29/10/2025;Faldo - 6 Adjacente;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+431;2511800;29/10/2025;Faldo - 6 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+432;2511800;29/10/2025;Faldo - 6 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);2.2;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+433;2511801;29/10/2025;O'conner - 1 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+434;2511801;29/10/2025;O'conner - 1 Green;Azoto total ;POS.008 (Método de Dumas);0.14;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+435;2511801;29/10/2025;O'conner - 1 Green;Boro;POS.011 (Extração em Mehlich 3);0.24;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+436;2511801;29/10/2025;O'conner - 1 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+437;2511801;29/10/2025;O'conner - 1 Green;Calcário total;EN 15936;0.5;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+438;2511801;29/10/2025;O'conner - 1 Green;Cálcio (%);ISO 23470;69.6;Médio;% Ca;;;raw_soil_fq.csv
+439;2511801;29/10/2025;O'conner - 1 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);917;Alto;mg/kg CaO;;;raw_soil_fq.csv
+440;2511801;29/10/2025;O'conner - 1 Green;Capacidade de troca catiónica efetiva ;ISO 23470;3.36;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+441;2511801;29/10/2025;O'conner - 1 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.1;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+442;2511801;29/10/2025;O'conner - 1 Green;Cobre;POS.011 (Extração em Mehlich 3);0.6;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+443;2511801;29/10/2025;O'conner - 1 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.15;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+444;2511801;29/10/2025;O'conner - 1 Green;Enxofre;POS.011 (Extração em Mehlich 3);54;Excesso;mg/kg S;-;;raw_soil_fq.csv
+445;2511801;29/10/2025;O'conner - 1 Green;Ferro;POS.011 (Extração em Mehlich 3);86;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+446;2511801;29/10/2025;O'conner - 1 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);60.4;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+447;2511801;29/10/2025;O'conner - 1 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+448;2511801;29/10/2025;O'conner - 1 Green;Magnésio (%);ISO 23470;24.6;Alto;% Mg;;;raw_soil_fq.csv
+449;2511801;29/10/2025;O'conner - 1 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);200;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+450;2511801;29/10/2025;O'conner - 1 Green;Manganês;POS.011 (Extração em Mehlich 3);3;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+451;2511801;29/10/2025;O'conner - 1 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+452;2511801;29/10/2025;O'conner - 1 Green;Matéria Orgânica;EN 15936;1.4;Baixa;%;Aplicar 25 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+453;2511801;29/10/2025;O'conner - 1 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+454;2511801;29/10/2025;O'conner - 1 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+455;2511801;29/10/2025;O'conner - 1 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+456;2511801;29/10/2025;O'conner - 1 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+457;2511801;29/10/2025;O'conner - 1 Green;pH(H₂O);ISO 10390;8.7;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+458;2511801;29/10/2025;O'conner - 1 Green;Potássio (%);ISO 23470;1.5;Médio;% K;;;raw_soil_fq.csv
+459;2511801;29/10/2025;O'conner - 1 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);28.1;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+460;2511801;29/10/2025;O'conner - 1 Green;Razão C:N;MI;5.6;Baixa - Será esperada uma libertação forte de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+461;2511801;29/10/2025;O'conner - 1 Green;Razão Ca:K;ISO 23470;46.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+462;2511801;29/10/2025;O'conner - 1 Green;Razão Ca:Mg;ISO 23470;2.8;Adequada; ;;;raw_soil_fq.csv
+463;2511801;29/10/2025;O'conner - 1 Green;Razão Mg:K;ISO 23470;16.3;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+464;2511801;29/10/2025;O'conner - 1 Green;Sódio;POS.011 (Extração em Mehlich 3);37.8;-;mg/kg Na;;;raw_soil_fq.csv
+465;2511801;29/10/2025;O'conner - 1 Green;Sódio (%);ISO 23470;4.2;-;% Na;;;raw_soil_fq.csv
+466;2511801;29/10/2025;O'conner - 1 Green;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+467;2511801;29/10/2025;O'conner - 1 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+468;2511801;29/10/2025;O'conner - 1 Green;Zinco;POS.011 (Extração em Mehlich 3);4.9;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+469;2511802;29/10/2025;O'conner - 1 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+470;2511802;29/10/2025;O'conner - 1 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.18;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+471;2511802;29/10/2025;O'conner - 1 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.43;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+472;2511802;29/10/2025;O'conner - 1 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+473;2511802;29/10/2025;O'conner - 1 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+474;2511802;29/10/2025;O'conner - 1 Adjacente;Cálcio (%);ISO 23470;72;Médio;% Ca;;;raw_soil_fq.csv
+475;2511802;29/10/2025;O'conner - 1 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1200;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+476;2511802;29/10/2025;O'conner - 1 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+477;2511802;29/10/2025;O'conner - 1 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+478;2511802;29/10/2025;O'conner - 1 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.06;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+479;2511802;29/10/2025;O'conner - 1 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.1;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+480;2511802;29/10/2025;O'conner - 1 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);25.6;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+481;2511802;29/10/2025;O'conner - 1 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);26.9;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+482;2511802;29/10/2025;O'conner - 1 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);144;Alto;mg/kg P₂O₅;0,5 kg/100m² P₂O₅;;raw_soil_fq.csv
+483;2511802;29/10/2025;O'conner - 1 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+484;2511802;29/10/2025;O'conner - 1 Adjacente;Magnésio (%);ISO 23470;23;Alto;% Mg;;;raw_soil_fq.csv
+485;2511802;29/10/2025;O'conner - 1 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);242;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+486;2511802;29/10/2025;O'conner - 1 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0.66;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+487;2511802;29/10/2025;O'conner - 1 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+488;2511802;29/10/2025;O'conner - 1 Adjacente;Matéria Orgânica;EN 15936;4.7;Muito alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+489;2511802;29/10/2025;O'conner - 1 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+490;2511802;29/10/2025;O'conner - 1 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+491;2511802;29/10/2025;O'conner - 1 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+492;2511802;29/10/2025;O'conner - 1 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+493;2511802;29/10/2025;O'conner - 1 Adjacente;pH(H₂O);ISO 10390;8.3;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+494;2511802;29/10/2025;O'conner - 1 Adjacente;Potássio (%);ISO 23470;1.6;Médio;% K;;;raw_soil_fq.csv
+495;2511802;29/10/2025;O'conner - 1 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);34.6;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+496;2511802;29/10/2025;O'conner - 1 Adjacente;Razão C:N;MI;15;Alta - Será esperada uma libertação baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+497;2511802;29/10/2025;O'conner - 1 Adjacente;Razão Ca:K;ISO 23470;46.2;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+498;2511802;29/10/2025;O'conner - 1 Adjacente;Razão Ca:Mg;ISO 23470;3.1;Adequada; ;;;raw_soil_fq.csv
+499;2511802;29/10/2025;O'conner - 1 Adjacente;Razão Mg:K;ISO 23470;14.8;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+500;2511802;29/10/2025;O'conner - 1 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);35.5;-;mg/kg Na;;;raw_soil_fq.csv
+501;2511802;29/10/2025;O'conner - 1 Adjacente;Sódio (%);ISO 23470;3.3;-;% Na;;;raw_soil_fq.csv
+502;2511802;29/10/2025;O'conner - 1 Adjacente;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+503;2511802;29/10/2025;O'conner - 1 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+504;2511802;29/10/2025;O'conner - 1 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.66;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+505;2511803;29/10/2025;O'conner - 2 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+506;2511803;29/10/2025;O'conner - 2 Green;Azoto total ;POS.008 (Método de Dumas);0.14;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+507;2511803;29/10/2025;O'conner - 2 Green;Boro;POS.011 (Extração em Mehlich 3);0.41;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+508;2511803;29/10/2025;O'conner - 2 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+509;2511803;29/10/2025;O'conner - 2 Green;Calcário total;EN 15936;0;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+510;2511803;29/10/2025;O'conner - 2 Green;Cálcio (%);ISO 23470;65.2;Médio;% Ca;;;raw_soil_fq.csv
+511;2511803;29/10/2025;O'conner - 2 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1300;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+512;2511803;29/10/2025;O'conner - 2 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.7;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+513;2511803;29/10/2025;O'conner - 2 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.17;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+514;2511803;29/10/2025;O'conner - 2 Green;Cobre;POS.011 (Extração em Mehlich 3);0.89;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+515;2511803;29/10/2025;O'conner - 2 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.22;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+516;2511803;29/10/2025;O'conner - 2 Green;Enxofre;POS.011 (Extração em Mehlich 3);75;Excesso;mg/kg S;-;;raw_soil_fq.csv
+517;2511803;29/10/2025;O'conner - 2 Green;Ferro;POS.011 (Extração em Mehlich 3);93.1;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+518;2511803;29/10/2025;O'conner - 2 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);52.4;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+519;2511803;29/10/2025;O'conner - 2 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+520;2511803;29/10/2025;O'conner - 2 Green;Magnésio (%);ISO 23470;27.5;Alto;% Mg;;;raw_soil_fq.csv
+521;2511803;29/10/2025;O'conner - 2 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);287;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+522;2511803;29/10/2025;O'conner - 2 Green;Manganês;POS.011 (Extração em Mehlich 3);3.2;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+523;2511803;29/10/2025;O'conner - 2 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+524;2511803;29/10/2025;O'conner - 2 Green;Matéria Orgânica;EN 15936;4.5;Alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+525;2511803;29/10/2025;O'conner - 2 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+526;2511803;29/10/2025;O'conner - 2 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+527;2511803;29/10/2025;O'conner - 2 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+528;2511803;29/10/2025;O'conner - 2 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+529;2511803;29/10/2025;O'conner - 2 Green;pH(H₂O);ISO 10390;8.6;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+530;2511803;29/10/2025;O'conner - 2 Green;Potássio (%);ISO 23470;1.7;Médio;% K;;;raw_soil_fq.csv
+531;2511803;29/10/2025;O'conner - 2 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);39.2;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+532;2511803;29/10/2025;O'conner - 2 Green;Razão C:N;MI;18.6;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+533;2511803;29/10/2025;O'conner - 2 Green;Razão Ca:K;ISO 23470;37.3;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+534;2511803;29/10/2025;O'conner - 2 Green;Razão Ca:Mg;ISO 23470;2.4;Desfavorável para as propriedades físicas do solo; ;;;raw_soil_fq.csv
+535;2511803;29/10/2025;O'conner - 2 Green;Razão Mg:K;ISO 23470;15.7;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+536;2511803;29/10/2025;O'conner - 2 Green;Sódio;POS.011 (Extração em Mehlich 3);63.4;-;mg/kg Na;;;raw_soil_fq.csv
+537;2511803;29/10/2025;O'conner - 2 Green;Sódio (%);ISO 23470;5.7;-;% Na;;;raw_soil_fq.csv
+538;2511803;29/10/2025;O'conner - 2 Green;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+539;2511803;29/10/2025;O'conner - 2 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+540;2511803;29/10/2025;O'conner - 2 Green;Zinco;POS.011 (Extração em Mehlich 3);4.9;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+541;2511804;29/10/2025;O'conner - 2 Adjacente;Acidez de troca;MI;00:00:00;-;%;;;raw_soil_fq.csv
+542;2511804;29/10/2025;O'conner - 2 Adjacente;Azoto total ;POS.008 (Método de Dumas);06:43:12;Alto;% N;0,6-0,8 kg/100m² N;;raw_soil_fq.csv
+543;2511804;29/10/2025;O'conner - 2 Adjacente;Boro;POS.011 (Extração em Mehlich 3);19:40:48;Alto;mg/kg B;-;;raw_soil_fq.csv
+544;2511804;29/10/2025;O'conner - 2 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);00:00:00;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+545;2511804;29/10/2025;O'conner - 2 Adjacente;Calcário total;EN 15936;00:00:00;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+546;2511804;29/10/2025;O'conner - 2 Adjacente;Cálcio (%);ISO 23470;1900-03-10 07:12:00;Médio;% Ca;;;raw_soil_fq.csv
+547;2511804;29/10/2025;O'conner - 2 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1904-08-26 00:00:00;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+548;2511804;29/10/2025;O'conner - 2 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;1900-01-05 05:16:48;Baixo;cmol⁺/kg;;;raw_soil_fq.csv
+549;2511804;29/10/2025;O'conner - 2 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);00:00:00;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+550;2511804;29/10/2025;O'conner - 2 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);04:33:36;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+551;2511804;29/10/2025;O'conner - 2 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;03:36:00;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+552;2511804;29/10/2025;O'conner - 2 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);1900-01-27 00:00:00;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+553;2511804;29/10/2025;O'conner - 2 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);1900-01-30 19:12:00;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+554;2511804;29/10/2025;O'conner - 2 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);1900-03-19 16:48:00;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+555;2511804;29/10/2025;O'conner - 2 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;1900-04-09 00:00:00;Muito alto;%;;;raw_soil_fq.csv
+556;2511804;29/10/2025;O'conner - 2 Adjacente;Magnésio (%);ISO 23470;1900-01-24 14:24:00;Alto;% Mg;;;raw_soil_fq.csv
+557;2511804;29/10/2025;O'conner - 2 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);1900-12-03 00:00:00;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+558;2511804;29/10/2025;O'conner - 2 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);1900-01-01 02:24:00;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+559;2511804;29/10/2025;O'conner - 2 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);00:00:00;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+560;2511804;29/10/2025;O'conner - 2 Adjacente;Matéria Orgânica;EN 15936;1900-01-04 19:12:00;Muito alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+561;2511804;29/10/2025;O'conner - 2 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);00:00:00;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+562;2511804;29/10/2025;O'conner - 2 Adjacente;Necessidade de Calcário;POS.061;00:00:00;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+563;2511804;29/10/2025;O'conner - 2 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);00:00:00;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+564;2511804;29/10/2025;O'conner - 2 Adjacente;Pesquisa de carbonatos;POS.030;1900-01-01 00:00:00;Positiva; ;;;raw_soil_fq.csv
+565;2511804;29/10/2025;O'conner - 2 Adjacente;pH(H₂O);ISO 10390;1900-01-08 19:12:00;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+566;2511804;29/10/2025;O'conner - 2 Adjacente;Potássio (%);ISO 23470;1900-01-01 16:48:00;Médio;% K;;;raw_soil_fq.csv
+567;2511804;29/10/2025;O'conner - 2 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);1900-02-19 09:36:00;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+568;2511804;29/10/2025;O'conner - 2 Adjacente;Razão C:N;MI;1900-01-10 00:00:00;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+569;2511804;29/10/2025;O'conner - 2 Adjacente;Razão Ca:K;ISO 23470;1900-02-09 21:36:00;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+570;2511804;29/10/2025;O'conner - 2 Adjacente;Razão Ca:Mg;ISO 23470;1900-01-02 21:36:00;Adequada; ;;;raw_soil_fq.csv
+571;2511804;29/10/2025;O'conner - 2 Adjacente;Razão Mg:K;ISO 23470;1900-01-14 07:12:00;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+572;2511804;29/10/2025;O'conner - 2 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);1900-02-13 12:00:00;-;mg/kg Na;;;raw_soil_fq.csv
+573;2511804;29/10/2025;O'conner - 2 Adjacente;Sódio (%);ISO 23470;1900-01-03 07:12:00;-;% Na;;;raw_soil_fq.csv
+574;2511804;29/10/2025;O'conner - 2 Adjacente;Temperatura de medição do pH;MI;1900-01-23 02:24:00;-;°C;;;raw_soil_fq.csv
+575;2511804;29/10/2025;O'conner - 2 Adjacente;Textura do Campo;POS.027 (Feel method);1900-01-07 00:00:00;Franco-Arenosa; ;;;raw_soil_fq.csv
+576;2511804;29/10/2025;O'conner - 2 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);1900-01-01 00:00:00;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+577;2511805;29/10/2025;O'conner - 3 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+578;2511805;29/10/2025;O'conner - 3 Green;Azoto total ;POS.008 (Método de Dumas);0.08;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+579;2511805;29/10/2025;O'conner - 3 Green;Boro;POS.011 (Extração em Mehlich 3);0.41;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+580;2511805;29/10/2025;O'conner - 3 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+581;2511805;29/10/2025;O'conner - 3 Green;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+582;2511805;29/10/2025;O'conner - 3 Green;Cálcio (%);ISO 23470;69.6;Médio;% Ca;;;raw_soil_fq.csv
+583;2511805;29/10/2025;O'conner - 3 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1600;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+584;2511805;29/10/2025;O'conner - 3 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.52;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+585;2511805;29/10/2025;O'conner - 3 Green;Cobalto;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+586;2511805;29/10/2025;O'conner - 3 Green;Cobre;POS.011 (Extração em Mehlich 3);0.64;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+587;2511805;29/10/2025;O'conner - 3 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.15;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+588;2511805;29/10/2025;O'conner - 3 Green;Enxofre;POS.011 (Extração em Mehlich 3);43.2;Excesso;mg/kg S;-;;raw_soil_fq.csv
+589;2511805;29/10/2025;O'conner - 3 Green;Ferro;POS.011 (Extração em Mehlich 3);80.8;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+590;2511805;29/10/2025;O'conner - 3 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);48.1;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+591;2511805;29/10/2025;O'conner - 3 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+592;2511805;29/10/2025;O'conner - 3 Green;Magnésio (%);ISO 23470;25.2;Alto;% Mg;;;raw_soil_fq.csv
+593;2511805;29/10/2025;O'conner - 3 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);278;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+594;2511805;29/10/2025;O'conner - 3 Green;Manganês;POS.011 (Extração em Mehlich 3);2.7;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+595;2511805;29/10/2025;O'conner - 3 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+596;2511805;29/10/2025;O'conner - 3 Green;Matéria Orgânica;EN 15936;2.8;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+597;2511805;29/10/2025;O'conner - 3 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+598;2511805;29/10/2025;O'conner - 3 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+599;2511805;29/10/2025;O'conner - 3 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+600;2511805;29/10/2025;O'conner - 3 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+601;2511805;29/10/2025;O'conner - 3 Green;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+602;2511805;29/10/2025;O'conner - 3 Green;Potássio (%);ISO 23470;1.6;Médio;% K;;;raw_soil_fq.csv
+603;2511805;29/10/2025;O'conner - 3 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);34.6;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+604;2511805;29/10/2025;O'conner - 3 Green;Razão C:N;MI;20;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+605;2511805;29/10/2025;O'conner - 3 Green;Razão Ca:K;ISO 23470;44.8;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+606;2511805;29/10/2025;O'conner - 3 Green;Razão Ca:Mg;ISO 23470;2.8;Adequada; ;;;raw_soil_fq.csv
+607;2511805;29/10/2025;O'conner - 3 Green;Razão Mg:K;ISO 23470;16.2;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+608;2511805;29/10/2025;O'conner - 3 Green;Sódio;POS.011 (Extração em Mehlich 3);39.4;-;mg/kg Na;;;raw_soil_fq.csv
+609;2511805;29/10/2025;O'conner - 3 Green;Sódio (%);ISO 23470;3.7;-;% Na;;;raw_soil_fq.csv
+610;2511805;29/10/2025;O'conner - 3 Green;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+611;2511805;29/10/2025;O'conner - 3 Green;Textura do Campo;POS.027 (Feel method);1;Areno-Franca; ;;;raw_soil_fq.csv
+612;2511805;29/10/2025;O'conner - 3 Green;Zinco;POS.011 (Extração em Mehlich 3);5.5;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+613;2511806;29/10/2025;O'conner - 3 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+614;2511806;29/10/2025;O'conner - 3 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.24;Alto;% N;0,6-0,8 kg/100m² N;;raw_soil_fq.csv
+615;2511806;29/10/2025;O'conner - 3 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.63;Alto;mg/kg B;-;;raw_soil_fq.csv
+616;2511806;29/10/2025;O'conner - 3 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+617;2511806;29/10/2025;O'conner - 3 Adjacente;Calcário total;EN 15936;0;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+618;2511806;29/10/2025;O'conner - 3 Adjacente;Cálcio (%);ISO 23470;68.6;Médio;% Ca;;;raw_soil_fq.csv
+619;2511806;29/10/2025;O'conner - 3 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1200;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+620;2511806;29/10/2025;O'conner - 3 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;7.4;Baixo;cmol⁺/kg;;;raw_soil_fq.csv
+621;2511806;29/10/2025;O'conner - 3 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.17;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+622;2511806;29/10/2025;O'conner - 3 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+623;2511806;29/10/2025;O'conner - 3 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.16;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+624;2511806;29/10/2025;O'conner - 3 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);24.8;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+625;2511806;29/10/2025;O'conner - 3 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);22.4;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+626;2511806;29/10/2025;O'conner - 3 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);78.7;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+627;2511806;29/10/2025;O'conner - 3 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+628;2511806;29/10/2025;O'conner - 3 Adjacente;Magnésio (%);ISO 23470;24.9;Alto;% Mg;;;raw_soil_fq.csv
+629;2511806;29/10/2025;O'conner - 3 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);265;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+630;2511806;29/10/2025;O'conner - 3 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0.76;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+631;2511806;29/10/2025;O'conner - 3 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+632;2511806;29/10/2025;O'conner - 3 Adjacente;Matéria Orgânica;EN 15936;4;Alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+633;2511806;29/10/2025;O'conner - 3 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+634;2511806;29/10/2025;O'conner - 3 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+635;2511806;29/10/2025;O'conner - 3 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+636;2511806;29/10/2025;O'conner - 3 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+637;2511806;29/10/2025;O'conner - 3 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+638;2511806;29/10/2025;O'conner - 3 Adjacente;Potássio (%);ISO 23470;2;Médio;% K;;;raw_soil_fq.csv
+639;2511806;29/10/2025;O'conner - 3 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);48.6;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+640;2511806;29/10/2025;O'conner - 3 Adjacente;Razão C:N;MI;9.6;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+641;2511806;29/10/2025;O'conner - 3 Adjacente;Razão Ca:K;ISO 23470;34.9;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+642;2511806;29/10/2025;O'conner - 3 Adjacente;Razão Ca:Mg;ISO 23470;2.8;Adequada; ;;;raw_soil_fq.csv
+643;2511806;29/10/2025;O'conner - 3 Adjacente;Razão Mg:K;ISO 23470;12.7;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+644;2511806;29/10/2025;O'conner - 3 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);50.5;-;mg/kg Na;;;raw_soil_fq.csv
+645;2511806;29/10/2025;O'conner - 3 Adjacente;Sódio (%);ISO 23470;4.5;-;% Na;;;raw_soil_fq.csv
+646;2511806;29/10/2025;O'conner - 3 Adjacente;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+647;2511806;29/10/2025;O'conner - 3 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+648;2511806;29/10/2025;O'conner - 3 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.03;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+649;2511807;29/10/2025;O'conner - 4 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+650;2511807;29/10/2025;O'conner - 4 Green;Azoto total ;POS.008 (Método de Dumas);0.13;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+651;2511807;29/10/2025;O'conner - 4 Green;Boro;POS.011 (Extração em Mehlich 3);0.35;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+652;2511807;29/10/2025;O'conner - 4 Green;Calcário ativo;POS.016 (Método de Drouineau);0.2;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+653;2511807;29/10/2025;O'conner - 4 Green;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+654;2511807;29/10/2025;O'conner - 4 Green;Cálcio (%);ISO 23470;70.8;Médio;% Ca;;;raw_soil_fq.csv
+655;2511807;29/10/2025;O'conner - 4 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1400;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+656;2511807;29/10/2025;O'conner - 4 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.36;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+657;2511807;29/10/2025;O'conner - 4 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.1;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+658;2511807;29/10/2025;O'conner - 4 Green;Cobre;POS.011 (Extração em Mehlich 3);0.65;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+659;2511807;29/10/2025;O'conner - 4 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.16;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+660;2511807;29/10/2025;O'conner - 4 Green;Enxofre;POS.011 (Extração em Mehlich 3);50.2;Excesso;mg/kg S;-;;raw_soil_fq.csv
+661;2511807;29/10/2025;O'conner - 4 Green;Ferro;POS.011 (Extração em Mehlich 3);66.2;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+662;2511807;29/10/2025;O'conner - 4 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);45.6;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+663;2511807;29/10/2025;O'conner - 4 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+664;2511807;29/10/2025;O'conner - 4 Green;Magnésio (%);ISO 23470;23.8;Alto;% Mg;;;raw_soil_fq.csv
+665;2511807;29/10/2025;O'conner - 4 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);243;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+666;2511807;29/10/2025;O'conner - 4 Green;Manganês;POS.011 (Extração em Mehlich 3);0.49;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+667;2511807;29/10/2025;O'conner - 4 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+668;2511807;29/10/2025;O'conner - 4 Green;Matéria Orgânica;EN 15936;2.1;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+669;2511807;29/10/2025;O'conner - 4 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+670;2511807;29/10/2025;O'conner - 4 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+671;2511807;29/10/2025;O'conner - 4 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+672;2511807;29/10/2025;O'conner - 4 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+673;2511807;29/10/2025;O'conner - 4 Green;pH(H₂O);ISO 10390;8.7;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+674;2511807;29/10/2025;O'conner - 4 Green;Potássio (%);ISO 23470;1.5;Médio;% K;;;raw_soil_fq.csv
+675;2511807;29/10/2025;O'conner - 4 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);30.8;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+676;2511807;29/10/2025;O'conner - 4 Green;Razão C:N;MI;9.2;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+677;2511807;29/10/2025;O'conner - 4 Green;Razão Ca:K;ISO 23470;46.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+678;2511807;29/10/2025;O'conner - 4 Green;Razão Ca:Mg;ISO 23470;3;Adequada; ;;;raw_soil_fq.csv
+679;2511807;29/10/2025;O'conner - 4 Green;Razão Mg:K;ISO 23470;15.5;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+680;2511807;29/10/2025;O'conner - 4 Green;Sódio;POS.011 (Extração em Mehlich 3);36.2;-;mg/kg Na;;;raw_soil_fq.csv
+681;2511807;29/10/2025;O'conner - 4 Green;Sódio (%);ISO 23470;3.9;-;% Na;;;raw_soil_fq.csv
+682;2511807;29/10/2025;O'conner - 4 Green;Temperatura de medição do pH;MI;23.1;-;°C;;;raw_soil_fq.csv
+683;2511807;29/10/2025;O'conner - 4 Green;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+684;2511807;29/10/2025;O'conner - 4 Green;Zinco;POS.011 (Extração em Mehlich 3);5.8;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+685;2511808;29/10/2025;O'conner - 4 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+686;2511808;29/10/2025;O'conner - 4 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.45;Excesso;% N;0 kg/100m² N;;raw_soil_fq.csv
+687;2511808;29/10/2025;O'conner - 4 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.9;Alto;mg/kg B;-;;raw_soil_fq.csv
+688;2511808;29/10/2025;O'conner - 4 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0.38;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+689;2511808;29/10/2025;O'conner - 4 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+690;2511808;29/10/2025;O'conner - 4 Adjacente;Cálcio (%);ISO 23470;69.2;Médio;% Ca;;;raw_soil_fq.csv
+691;2511808;29/10/2025;O'conner - 4 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);2100;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+692;2511808;29/10/2025;O'conner - 4 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;7.23;Baixo;cmol⁺/kg;;;raw_soil_fq.csv
+693;2511808;29/10/2025;O'conner - 4 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.23;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+694;2511808;29/10/2025;O'conner - 4 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+695;2511808;29/10/2025;O'conner - 4 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.16;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+696;2511808;29/10/2025;O'conner - 4 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);28.5;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+697;2511808;29/10/2025;O'conner - 4 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);26.2;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+698;2511808;29/10/2025;O'conner - 4 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);84.2;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+699;2511808;29/10/2025;O'conner - 4 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+700;2511808;29/10/2025;O'conner - 4 Adjacente;Magnésio (%);ISO 23470;24.6;Alto;% Mg;;;raw_soil_fq.csv
+701;2511808;29/10/2025;O'conner - 4 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);389;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+702;2511808;29/10/2025;O'conner - 4 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);4.6;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+703;2511808;29/10/2025;O'conner - 4 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+704;2511808;29/10/2025;O'conner - 4 Adjacente;Matéria Orgânica;EN 15936;7.9;Muito alta;%;Aplicar 0-10 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+705;2511808;29/10/2025;O'conner - 4 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+706;2511808;29/10/2025;O'conner - 4 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+707;2511808;29/10/2025;O'conner - 4 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+708;2511808;29/10/2025;O'conner - 4 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+709;2511808;29/10/2025;O'conner - 4 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+710;2511808;29/10/2025;O'conner - 4 Adjacente;Potássio (%);ISO 23470;2.7;Médio;% K;;;raw_soil_fq.csv
+711;2511808;29/10/2025;O'conner - 4 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);93.6;Alto;mg/kg K₂O;0,5 kg/100m² K₂O;;raw_soil_fq.csv
+712;2511808;29/10/2025;O'conner - 4 Adjacente;Razão C:N;MI;10.2;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+713;2511808;29/10/2025;O'conner - 4 Adjacente;Razão Ca:K;ISO 23470;25.7;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+714;2511808;29/10/2025;O'conner - 4 Adjacente;Razão Ca:Mg;ISO 23470;2.8;Adequada; ;;;raw_soil_fq.csv
+715;2511808;29/10/2025;O'conner - 4 Adjacente;Razão Mg:K;ISO 23470;9.1;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+716;2511808;29/10/2025;O'conner - 4 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);54;-;mg/kg Na;;;raw_soil_fq.csv
+717;2511808;29/10/2025;O'conner - 4 Adjacente;Sódio (%);ISO 23470;3.5;-;% Na;;;raw_soil_fq.csv
+718;2511808;29/10/2025;O'conner - 4 Adjacente;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+719;2511808;29/10/2025;O'conner - 4 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+720;2511808;29/10/2025;O'conner - 4 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.2;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+721;2511809;29/10/2025;O'conner - 5 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+722;2511809;29/10/2025;O'conner - 5 Green;Azoto total ;POS.008 (Método de Dumas);0.09;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+723;2511809;29/10/2025;O'conner - 5 Green;Boro;POS.011 (Extração em Mehlich 3);0.38;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+724;2511809;29/10/2025;O'conner - 5 Green;Calcário ativo;POS.016 (Método de Drouineau);0.4;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+725;2511809;29/10/2025;O'conner - 5 Green;Calcário total;EN 15936;0.58;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+726;2511809;29/10/2025;O'conner - 5 Green;Cálcio (%);ISO 23470;68.8;Médio;% Ca;;;raw_soil_fq.csv
+727;2511809;29/10/2025;O'conner - 5 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1400;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+728;2511809;29/10/2025;O'conner - 5 Green;Capacidade de troca catiónica efetiva ;ISO 23470;4.09;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+729;2511809;29/10/2025;O'conner - 5 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+730;2511809;29/10/2025;O'conner - 5 Green;Cobre;POS.011 (Extração em Mehlich 3);0.66;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+731;2511809;29/10/2025;O'conner - 5 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.15;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+732;2511809;29/10/2025;O'conner - 5 Green;Enxofre;POS.011 (Extração em Mehlich 3);47.1;Excesso;mg/kg S;-;;raw_soil_fq.csv
+733;2511809;29/10/2025;O'conner - 5 Green;Ferro;POS.011 (Extração em Mehlich 3);72.7;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+734;2511809;29/10/2025;O'conner - 5 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);53.5;Muito baixo;mg/kg P₂O₅;1 kg/100m² P₂O₅;;raw_soil_fq.csv
+735;2511809;29/10/2025;O'conner - 5 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+736;2511809;29/10/2025;O'conner - 5 Green;Magnésio (%);ISO 23470;25.2;Alto;% Mg;;;raw_soil_fq.csv
+737;2511809;29/10/2025;O'conner - 5 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);261;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+738;2511809;29/10/2025;O'conner - 5 Green;Manganês;POS.011 (Extração em Mehlich 3);3;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+739;2511809;29/10/2025;O'conner - 5 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+740;2511809;29/10/2025;O'conner - 5 Green;Matéria Orgânica;EN 15936;1.5;Baixa;%;Aplicar 25 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+741;2511809;29/10/2025;O'conner - 5 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+742;2511809;29/10/2025;O'conner - 5 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+743;2511809;29/10/2025;O'conner - 5 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+744;2511809;29/10/2025;O'conner - 5 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+745;2511809;29/10/2025;O'conner - 5 Green;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+746;2511809;29/10/2025;O'conner - 5 Green;Potássio (%);ISO 23470;1.7;Médio;% K;;;raw_soil_fq.csv
+747;2511809;29/10/2025;O'conner - 5 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);40.4;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+748;2511809;29/10/2025;O'conner - 5 Green;Razão C:N;MI;9.6;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+749;2511809;29/10/2025;O'conner - 5 Green;Razão Ca:K;ISO 23470;40.6;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+750;2511809;29/10/2025;O'conner - 5 Green;Razão Ca:Mg;ISO 23470;2.7;Adequada; ;;;raw_soil_fq.csv
+751;2511809;29/10/2025;O'conner - 5 Green;Razão Mg:K;ISO 23470;14.8;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+752;2511809;29/10/2025;O'conner - 5 Green;Sódio;POS.011 (Extração em Mehlich 3);42.6;-;mg/kg Na;;;raw_soil_fq.csv
+753;2511809;29/10/2025;O'conner - 5 Green;Sódio (%);ISO 23470;4.3;-;% Na;;;raw_soil_fq.csv
+754;2511809;29/10/2025;O'conner - 5 Green;Temperatura de medição do pH;MI;22.9;-;°C;;;raw_soil_fq.csv
+755;2511809;29/10/2025;O'conner - 5 Green;Textura do Campo;POS.027 (Feel method);1;Areno-Franca; ;;;raw_soil_fq.csv
+756;2511809;29/10/2025;O'conner - 5 Green;Zinco;POS.011 (Extração em Mehlich 3);5.4;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+757;2511810;29/10/2025;O'conner - 5 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+758;2511810;29/10/2025;O'conner - 5 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.07;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+759;2511810;29/10/2025;O'conner - 5 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.65;Alto;mg/kg B;-;;raw_soil_fq.csv
+760;2511810;29/10/2025;O'conner - 5 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+761;2511810;29/10/2025;O'conner - 5 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+762;2511810;29/10/2025;O'conner - 5 Adjacente;Cálcio (%);ISO 23470;72.5;Médio;% Ca;;;raw_soil_fq.csv
+763;2511810;29/10/2025;O'conner - 5 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1200;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+764;2511810;29/10/2025;O'conner - 5 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4.63;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+765;2511810;29/10/2025;O'conner - 5 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0.05;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+766;2511810;29/10/2025;O'conner - 5 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.03;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+767;2511810;29/10/2025;O'conner - 5 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.11;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+768;2511810;29/10/2025;O'conner - 5 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);25.5;Alto;mg/kg S;5-10 kg/ha S;;raw_soil_fq.csv
+769;2511810;29/10/2025;O'conner - 5 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);32.4;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+770;2511810;29/10/2025;O'conner - 5 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);85;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+771;2511810;29/10/2025;O'conner - 5 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+772;2511810;29/10/2025;O'conner - 5 Adjacente;Magnésio (%);ISO 23470;22.3;Alto;% Mg;;;raw_soil_fq.csv
+773;2511810;29/10/2025;O'conner - 5 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);260;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+774;2511810;29/10/2025;O'conner - 5 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);0;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+775;2511810;29/10/2025;O'conner - 5 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+776;2511810;29/10/2025;O'conner - 5 Adjacente;Matéria Orgânica;EN 15936;2.8;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+777;2511810;29/10/2025;O'conner - 5 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+778;2511810;29/10/2025;O'conner - 5 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+779;2511810;29/10/2025;O'conner - 5 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+780;2511810;29/10/2025;O'conner - 5 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+781;2511810;29/10/2025;O'conner - 5 Adjacente;pH(H₂O);ISO 10390;8.8;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+782;2511810;29/10/2025;O'conner - 5 Adjacente;Potássio (%);ISO 23470;2.5;Médio;% K;;;raw_soil_fq.csv
+783;2511810;29/10/2025;O'conner - 5 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);64.2;Médio;mg/kg K₂O;0,6 kg/100m² K₂O;;raw_soil_fq.csv
+784;2511810;29/10/2025;O'conner - 5 Adjacente;Razão C:N;MI;22.9;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+785;2511810;29/10/2025;O'conner - 5 Adjacente;Razão Ca:K;ISO 23470;28.5;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+786;2511810;29/10/2025;O'conner - 5 Adjacente;Razão Ca:Mg;ISO 23470;3.2;Adequada; ;;;raw_soil_fq.csv
+787;2511810;29/10/2025;O'conner - 5 Adjacente;Razão Mg:K;ISO 23470;8.8;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+788;2511810;29/10/2025;O'conner - 5 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);32.4;-;mg/kg Na;;;raw_soil_fq.csv
+789;2511810;29/10/2025;O'conner - 5 Adjacente;Sódio (%);ISO 23470;2.7;-;% Na;;;raw_soil_fq.csv
+790;2511810;29/10/2025;O'conner - 5 Adjacente;Temperatura de medição do pH;MI;23;-;°C;;;raw_soil_fq.csv
+791;2511810;29/10/2025;O'conner - 5 Adjacente;Textura do Campo;POS.027 (Feel method);2;Arenosa; ;;;raw_soil_fq.csv
+792;2511810;29/10/2025;O'conner - 5 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);0.35;Baixo;mg/kg Zn;1-3 kg/ha Zn;;raw_soil_fq.csv
+793;2511811;29/10/2025;O'conner - 6 Green;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+794;2511811;29/10/2025;O'conner - 6 Green;Azoto total ;POS.008 (Método de Dumas);0.09;Baixo;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+795;2511811;29/10/2025;O'conner - 6 Green;Boro;POS.011 (Extração em Mehlich 3);0.33;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+796;2511811;29/10/2025;O'conner - 6 Green;Calcário ativo;POS.016 (Método de Drouineau);0;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+797;2511811;29/10/2025;O'conner - 6 Green;Calcário total;EN 15936;0;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+798;2511811;29/10/2025;O'conner - 6 Green;Cálcio (%);ISO 23470;70.9;Médio;% Ca;;;raw_soil_fq.csv
+799;2511811;29/10/2025;O'conner - 6 Green;Cálcio (CaO);POS.011 (Extração em Mehlich 3);863;Alto;mg/kg CaO;;;raw_soil_fq.csv
+800;2511811;29/10/2025;O'conner - 6 Green;Capacidade de troca catiónica efetiva ;ISO 23470;3.39;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+801;2511811;29/10/2025;O'conner - 6 Green;Cobalto;POS.011 (Extração em Mehlich 3);0.04;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+802;2511811;29/10/2025;O'conner - 6 Green;Cobre;POS.011 (Extração em Mehlich 3);0.5;Alto;mg/kg Cu;-;;raw_soil_fq.csv
+803;2511811;29/10/2025;O'conner - 6 Green;Condutividade Elétrica (a 25ºC);ISO 11265;0.14;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+804;2511811;29/10/2025;O'conner - 6 Green;Enxofre;POS.011 (Extração em Mehlich 3);43.2;Excesso;mg/kg S;-;;raw_soil_fq.csv
+805;2511811;29/10/2025;O'conner - 6 Green;Ferro;POS.011 (Extração em Mehlich 3);58.1;Baixo;mg/kg Fe;2-4 kg/ha Fe;;raw_soil_fq.csv
+806;2511811;29/10/2025;O'conner - 6 Green;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);55.6;Baixo;mg/kg P₂O₅;0,8 kg/100m² P₂O₅;;raw_soil_fq.csv
+807;2511811;29/10/2025;O'conner - 6 Green;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+808;2511811;29/10/2025;O'conner - 6 Green;Magnésio (%);ISO 23470;23.6;Alto;% Mg;;;raw_soil_fq.csv
+809;2511811;29/10/2025;O'conner - 6 Green;Magnésio (MgO);POS.011 (Extração em Mehlich 3);184;Alto;mg/kg MgO;0,25 kg/100m² MgO;;raw_soil_fq.csv
+810;2511811;29/10/2025;O'conner - 6 Green;Manganês;POS.011 (Extração em Mehlich 3);3.1;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+811;2511811;29/10/2025;O'conner - 6 Green;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+812;2511811;29/10/2025;O'conner - 6 Green;Matéria Orgânica;EN 15936;2.8;Média;%;Aplicar 20 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+813;2511811;29/10/2025;O'conner - 6 Green;Molibdénio;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+814;2511811;29/10/2025;O'conner - 6 Green;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+815;2511811;29/10/2025;O'conner - 6 Green;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+816;2511811;29/10/2025;O'conner - 6 Green;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+817;2511811;29/10/2025;O'conner - 6 Green;pH(H₂O);ISO 10390;8.5;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+818;2511811;29/10/2025;O'conner - 6 Green;Potássio (%);ISO 23470;1.7;Médio;% K;;;raw_soil_fq.csv
+819;2511811;29/10/2025;O'conner - 6 Green;Potássio (K₂O);POS.011 (Extração em Mehlich 3);30.7;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+820;2511811;29/10/2025;O'conner - 6 Green;Razão C:N;MI;17.8;Muito alta - Será esperada uma libertação muito baixa de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+821;2511811;29/10/2025;O'conner - 6 Green;Razão Ca:K;ISO 23470;40.7;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+822;2511811;29/10/2025;O'conner - 6 Green;Razão Ca:Mg;ISO 23470;3;Adequada; ;;;raw_soil_fq.csv
+823;2511811;29/10/2025;O'conner - 6 Green;Razão Mg:K;ISO 23470;13.6;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+824;2511811;29/10/2025;O'conner - 6 Green;Sódio;POS.011 (Extração em Mehlich 3);28.9;-;mg/kg Na;;;raw_soil_fq.csv
+825;2511811;29/10/2025;O'conner - 6 Green;Sódio (%);ISO 23470;3.7;-;% Na;;;raw_soil_fq.csv
+826;2511811;29/10/2025;O'conner - 6 Green;Temperatura de medição do pH;MI;22.9;-;°C;;;raw_soil_fq.csv
+827;2511811;29/10/2025;O'conner - 6 Green;Textura do Campo;POS.027 (Feel method);2;Arenosa; ;;;raw_soil_fq.csv
+828;2511811;29/10/2025;O'conner - 6 Green;Zinco;POS.011 (Extração em Mehlich 3);3.6;Alto;mg/kg Zn;-;;raw_soil_fq.csv
+829;2511812;29/10/2025;O'conner - 6 Adjacente;Acidez de troca;MI;0;-;%;;;raw_soil_fq.csv
+830;2511812;29/10/2025;O'conner - 6 Adjacente;Azoto total ;POS.008 (Método de Dumas);0.18;Médio;% N;1,2-1,6 kg/100m² N;;raw_soil_fq.csv
+831;2511812;29/10/2025;O'conner - 6 Adjacente;Boro;POS.011 (Extração em Mehlich 3);0.46;Baixo;mg/kg B;1-3 kg/ha B;;raw_soil_fq.csv
+832;2511812;29/10/2025;O'conner - 6 Adjacente;Calcário ativo;POS.016 (Método de Drouineau);0.19;Baixo;% CaCO₃ (m/m);;;raw_soil_fq.csv
+833;2511812;29/10/2025;O'conner - 6 Adjacente;Calcário total;EN 15936;0.83;Não calcário;% CaCO₃ (m/m);;;raw_soil_fq.csv
+834;2511812;29/10/2025;O'conner - 6 Adjacente;Cálcio (%);ISO 23470;71.5;Médio;% Ca;;;raw_soil_fq.csv
+835;2511812;29/10/2025;O'conner - 6 Adjacente;Cálcio (CaO);POS.011 (Extração em Mehlich 3);1200;Excesso;mg/kg CaO;;;raw_soil_fq.csv
+836;2511812;29/10/2025;O'conner - 6 Adjacente;Capacidade de troca catiónica efetiva ;ISO 23470;4.64;Muito baixo;cmol⁺/kg;;;raw_soil_fq.csv
+837;2511812;29/10/2025;O'conner - 6 Adjacente;Cobalto;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Co;Aplicar por via foliar;;raw_soil_fq.csv
+838;2511812;29/10/2025;O'conner - 6 Adjacente;Cobre;POS.011 (Extração em Mehlich 3);0.4;Baixo;mg/kg Cu;1 kg/ha Cu;;raw_soil_fq.csv
+839;2511812;29/10/2025;O'conner - 6 Adjacente;Condutividade Elétrica (a 25ºC);ISO 11265;0.14;Solo sem efeitos salinos;mS/cm;-;;raw_soil_fq.csv
+840;2511812;29/10/2025;O'conner - 6 Adjacente;Enxofre;POS.011 (Extração em Mehlich 3);47.6;Excesso;mg/kg S;-;;raw_soil_fq.csv
+841;2511812;29/10/2025;O'conner - 6 Adjacente;Ferro;POS.011 (Extração em Mehlich 3);64.1;Alto;mg/kg Fe;-;;raw_soil_fq.csv
+842;2511812;29/10/2025;O'conner - 6 Adjacente;Fósforo (P₂O₅);POS.011 (Extração em Mehlich 3);94.7;Médio;mg/kg P₂O₅;0,6 kg/100m² P₂O₅;;raw_soil_fq.csv
+843;2511812;29/10/2025;O'conner - 6 Adjacente;Grau de Saturação em Bases (GSB);ISO 23470;100;Muito alto;%;;;raw_soil_fq.csv
+844;2511812;29/10/2025;O'conner - 6 Adjacente;Magnésio (%);ISO 23470;23.8;Alto;% Mg;;;raw_soil_fq.csv
+845;2511812;29/10/2025;O'conner - 6 Adjacente;Magnésio (MgO);POS.011 (Extração em Mehlich 3);263;Excesso;mg/kg MgO;0-0,14 kg/100m² MgO;;raw_soil_fq.csv
+846;2511812;29/10/2025;O'conner - 6 Adjacente;Manganês;POS.011 (Extração em Mehlich 3);3.6;Muito baixo;mg/kg Mn;;;raw_soil_fq.csv
+847;2511812;29/10/2025;O'conner - 6 Adjacente;Manganês (MnAI);POS.011 (Extração em Mehlich 3);0;Baixo;MnAI;2-5 kg/ha Mn;;raw_soil_fq.csv
+848;2511812;29/10/2025;O'conner - 6 Adjacente;Matéria Orgânica;EN 15936;3.1;Alta;%;Aplicar 15 t/ha de estrume de bovino bem curtido;;raw_soil_fq.csv
+849;2511812;29/10/2025;O'conner - 6 Adjacente;Molibdénio;POS.011 (Extração em Mehlich 3);0.01;Baixo;mg/kg Mo;Aplicar por via foliar;;raw_soil_fq.csv
+850;2511812;29/10/2025;O'conner - 6 Adjacente;Necessidade de Calcário;POS.061;0;Não há necessidade de aplicação de calcário.;    ;;;raw_soil_fq.csv
+851;2511812;29/10/2025;O'conner - 6 Adjacente;Níquel;POS.011 (Extração em Mehlich 3);0;Baixo;mg/kg Ni;Aplicar por via foliar ;;raw_soil_fq.csv
+852;2511812;29/10/2025;O'conner - 6 Adjacente;Pesquisa de carbonatos;POS.030;1;Positiva; ;;;raw_soil_fq.csv
+853;2511812;29/10/2025;O'conner - 6 Adjacente;pH(H₂O);ISO 10390;8.4;Alcalino;Unidades de pH;;;raw_soil_fq.csv
+854;2511812;29/10/2025;O'conner - 6 Adjacente;Potássio (%);ISO 23470;1.6;Médio;% K;;;raw_soil_fq.csv
+855;2511812;29/10/2025;O'conner - 6 Adjacente;Potássio (K₂O);POS.011 (Extração em Mehlich 3);39.4;Baixo;mg/kg K₂O;0,8 kg/100m² K₂O;;raw_soil_fq.csv
+856;2511812;29/10/2025;O'conner - 6 Adjacente;Razão C:N;MI;10;Normal - Será esperada uma libertação média de azoto pela matéria orgânica do solo;     ;;;raw_soil_fq.csv
+857;2511812;29/10/2025;O'conner - 6 Adjacente;Razão Ca:K;ISO 23470;43.9;Desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+858;2511812;29/10/2025;O'conner - 6 Adjacente;Razão Ca:Mg;ISO 23470;3;Adequada; ;;;raw_soil_fq.csv
+859;2511812;29/10/2025;O'conner - 6 Adjacente;Razão Mg:K;ISO 23470;14.6;Muito desfavorável para a nutrição da planta em K; ;;;raw_soil_fq.csv
+860;2511812;29/10/2025;O'conner - 6 Adjacente;Sódio;POS.011 (Extração em Mehlich 3);35;-;mg/kg Na;;;raw_soil_fq.csv
+861;2511812;29/10/2025;O'conner - 6 Adjacente;Sódio (%);ISO 23470;3.1;-;% Na;;;raw_soil_fq.csv
+862;2511812;29/10/2025;O'conner - 6 Adjacente;Temperatura de medição do pH;MI;22.9;-;°C;;;raw_soil_fq.csv
+863;2511812;29/10/2025;O'conner - 6 Adjacente;Textura do Campo;POS.027 (Feel method);7;Franco-Arenosa; ;;;raw_soil_fq.csv
+864;2511812;29/10/2025;O'conner - 6 Adjacente;Zinco;POS.011 (Extração em Mehlich 3);3.4;Alto;mg/kg Zn;-;;raw_soil_fq.csv
